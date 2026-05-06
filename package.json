@@ -1,13 +1,13 @@
 {
   "name": "bookstore-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "RESTful API for a bookstore built with Node.js, Express, and MongoDB",
   "main": "index.js","scripts": {
   "start": "node app.js",
   "dev": "nodemon app.js"
 },
   "keywords": [],
-  "author": "",
+  "author": "Qurat-ul-Ain",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
