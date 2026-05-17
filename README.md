@@ -58,8 +58,5 @@ PORT=5000
 }
 ```
 
-## Live Demo
-API deployed and running with MongoDB Atlas cloud database.
-
 ## Author
 Qurat-ul-Ain — [github.com/ainieworks](https://github.com/ainieworks)
